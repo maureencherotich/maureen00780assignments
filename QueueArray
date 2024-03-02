@@ -1,4 +1,4 @@
-packages Maureen.Asssignment;
+package Maureen.Asssignment;
 
 // A class to represent a queue using an array
 class Queue {
